@@ -18,7 +18,10 @@ Todos os dados sensíveis foram anonimizados ou ocultados, seguindo rigorosament
 
 💡 Unir tecnologia, automação e responsabilidade com dados tem sido essencial para fortalecer nossas operações e melhorar a experiência dos nossos usuários!
 
-![Descrição da imagem]((https://img001.prntscr.com/file/img001/m05WUUaHT4isYaFbQ0rqNA.png))
-![Descrição da imagem](caminho/para/imagem.png](https://img001.prntscr.com/file/img001/Q_8FXAwvQf2X3pU-t9DalQ.png))
+![Imagem 1](https://img001.prntscr.com/file/img001/m05WUUaHT4isYaFbQ0rqNA.png)
+![Imagem 2](https://img001.prntscr.com/file/img001/Q_8FXAwvQf2X3pU-t9DalQ.png)
+
+
+
 
 #React #Dashboard #Automação #Playwright #Python #PHP #JSON #LGPD #Monitoramento #DesenvolvimentoWeb #Tecnologia #Inovação
